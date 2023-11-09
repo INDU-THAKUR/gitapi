@@ -17,5 +17,5 @@ cat POST_RESP.txt
 #echo "Other error :$POST_RESP" 
 #fi
 ##git remote set-url origin 
-git remote set-url origin https://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@github.com/INDU-THAKUR/API_Testing
-git remote set-url origin https://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@github.com/INDU-THAKUR/API_Testing/tree/main
+
+#git remote set-url origin https://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@github.com/INDU-THAKUR/API_Testing/tree/main
